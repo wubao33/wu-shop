@@ -1,0 +1,17 @@
+export const ADD_GOODS='ADD_GOODS'
+export const INIT_SGOP_CART='INIT_SGOP_CART'
+export const DELECT_CART='DELECT_CART'
+export const SINGER_SELECT='SINGER_SELECT'
+export const ALL_SELECT='ALL_SELECT'
+export const CLEAR_CART='CLEAR_CART'
+
+export const USER_INFO='USER_INFO'
+export const CART_INFO='CART_INFO'
+
+export const INIT_USER_INFO='INIT_USER_INFO'
+
+export const IS_LOGIN='IS_LOGIN'
+export const RESET_USER_INFO='RESET_USER_INFO'
+export const RESET_CART_INFO='RESET_CART_INFO'
+export const INSERT_GOODS='INSERT_GOODS'
+
